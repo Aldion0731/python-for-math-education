@@ -1,0 +1,1 @@
+This repository will house various question generating algortihms useful to the discipline of Math education. The aim is to write algorithms which can automate the process of question generation for Math tests /quizzes. Each algorithm will also return the solution for each problem it generates.
